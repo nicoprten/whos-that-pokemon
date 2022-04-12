@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Teko&display=swap');
+h2{
+    margin: 0;
+}
+#container{
+    width: 700px;
+    position: relative;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 18px 18px 0 0;
+}
+#pokemon-name{
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    color: white;
+    background-color: #ff1806;
+    padding: 5px;
+    border-radius: 10px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#pokemon-image{
+    position: absolute;
+    top: 35px;
+    left: 30px;
+    width: 50%;
+    border: none;
+}
+#pokemon-bg{
+    width: 100%;
+    border-radius: 18px 18px 0 0;
+}
+#input-container{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 0 18px 18px;
+}
+#input-container p{
+    font-family: 'Anton';
+    color: white;
+    font-size: 22px;
+}
+#input-container input, #again{
+    text-align: center;
+    font-family: 'Anton';
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(245,245,245);
+}
+#again{
+    padding: 10px;
+    display: block;
+    margin: 10px auto;
+}#again:hover{
+    background-color: #ff3719;
+    color: white;
+    transition: .3s;
+    cursor: pointer;
+}
