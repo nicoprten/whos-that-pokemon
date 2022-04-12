@@ -1,5 +1,5 @@
 
-<h1>Whos that pokemon</h1>
+<h1>Who's That Pokémon</h1>
 <p>The classic game of guessing the pokemon. I did it only with vanila javascript  and css. Next step pass it to react and sass.</p>
 <h2>Screenshot</h2>
 <p align="center">
