@@ -1,5 +1,8 @@
 
 <h1>Who's That Pokémon</h1>
+
+<h5><b>| Test my app <a href='https://nicoprten.github.io/whos_that_pokemon/' target='_blank'>HERE</a></b></h6>
+<h6>If you don't know the answer you can see it by typing F12 and from there go to the console. So you can try it out!</h6>
 <ul>
   <li>Using the Pokémon API with async / await.</li>
   <li>DOM management with Javascript.</li>
